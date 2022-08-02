@@ -1,0 +1,14 @@
+RL la gi? 
+- Hoc tang cuong.
+- No la thuat toan hoc may Machine Learning.
+- Day cho may tinh hoc cach tuong tac voi moi truong thong qua cac "hanh dong" va nhan duoc cac "phan thuong".
+
++ Goal (muc dich)
++ Enviroment (moi truong)
++ Agent (may)
++ State (trang thai)
++ Action (hanh dong)
++ Reward (phan thuong)
+
+- Q-Learing: 1 thuat toan RL cos the ap dung cho nhieu moi truong khac nhau
+- Q-Learing: thuc hien bang cach lap di lap lai cac action va nhan duoc reward de xay dung look-up-table (Q-table)
