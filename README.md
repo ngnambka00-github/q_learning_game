@@ -1,1 +1,1 @@
-# q_learning_game
+# Q Learning (Reinforcement Learning)
